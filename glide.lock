@@ -1,0 +1,16 @@
+hash: 44f4ac620be4008870fef3b8402848d7e844bcce2d8dd3896b2da30b5ca3e196
+updated: 2017-06-30T13:46:53.521711422+08:00
+imports:
+- name: github.com/cpuguy83/go-md2man
+  version: 23709d0847197db6021a51fdb193e66e9222d4e7
+  subpackages:
+  - md2man
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/russross/blackfriday
+  version: 067529f716f4c3f5e37c8c95ddd59df1007290ae
+- name: github.com/spf13/cobra
+  version: 1c44ec8d3f1552cac48999f9306da23c4d8a288b
+- name: github.com/spf13/pflag
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
+testImports: []
