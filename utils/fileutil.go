@@ -28,5 +28,6 @@ func WriteJsonFile(filepath string, data []byte) (err error) {
 		return err
 	}
 	out.WriteTo(f)
+	defer f.Close()
 	return
 }
